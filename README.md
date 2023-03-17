@@ -67,7 +67,7 @@ https://www.linkedin.com/in/joseph-nadar-11b51214
 <a href="https://github.com/joseph180598" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/josephnadar" target="_blank">
+<a href="https://linkedin.com/in/joseph-nadar-11b512143" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.kaggle.com/josephnadar" target="_blank">
