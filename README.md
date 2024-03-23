@@ -8,17 +8,17 @@
 
 - ⭐ I’m currently available on 
 LinkedIn
-https://www.linkedin.com/in/joseph-nadar-11b51214
+https://www.linkedin.com/in/joseph-nadar-data
   
   
 
-- 💼 Working in Amazon as a Selling Partner Support Mentor.  
+- 💼 Working as a Data Scientist.  
   
 
-- ❓ Not an expert yet, but you can refer my space to learn things from a fresher's perspective.  
+- ❓ Expert in creating machine learning & deep learning models! 
   
 
-- 🌱 I’m currently learning concepts in bricks and pieces necessary for a Data Scientist.  
+- 🌱 Learning is like food, you keep on learning a bit to grow
   
 
 <br/>  
@@ -27,14 +27,6 @@ https://www.linkedin.com/in/joseph-nadar-11b51214
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-
-
-### Frontend  
-<div align="center">  
-  
-</div>
-
-</td><td valign="top" width="33%">
 
 
 
